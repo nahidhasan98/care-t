@@ -5,7 +5,7 @@ print("Program is running...")
 
 # displaying options
 print("\n==============================")
-print("1. Get all user list")
+print("1. Get user list")
 print("2. Create a new user")
 print("==============================")
 

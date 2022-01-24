@@ -12,7 +12,7 @@ func main() {
 
 	// displaying options
 	fmt.Println("\n==============================")
-	fmt.Println("1. Get all user list")
+	fmt.Println("1. Get user list")
 	fmt.Println("2. Create a new user")
 	fmt.Println("==============================")
 
