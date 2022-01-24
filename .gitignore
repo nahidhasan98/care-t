@@ -1,0 +1,9 @@
+# all exe file
+*.exe
+
+# virtual environment
+*.venv
+
+# pycache
+*.pyc
+__pycache__
